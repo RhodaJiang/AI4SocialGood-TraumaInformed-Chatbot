@@ -52,3 +52,54 @@ This project aims to bridge that gap through a transparent, ethically grounded A
 - Contribute to the *AI for Social Good* movement.  
 
 ---
+
+# Ethics Self-Assessment Statement  
+
+**Project Title:**  
+*Adapting Domain-Specific Large Language Models for Trauma-Informed Decision Support in Frontline Homelessness Services (Pilot Study)*  
+
+---
+
+## Research Context  
+This pilot study explores the feasibility of adapting a domain-specific large language model (LLM) to provide trauma-informed and ethically responsible decision support for frontline homelessness practitioners.  
+
+---
+
+## Data Sources  
+- Case materials were drawn from **publicly available reports and resources** published by UK homelessness organisations.  
+- All materials were obtained through **web scraping of publicly accessible websites**.  
+- No private, restricted, or confidential data were collected.  
+
+---
+
+## Anonymisation and Sensitivity  
+- The original texts may contain **sensitive descriptions of homelessness, trauma and vulnerability**.  
+- To minimise risk, all identifiable information (e.g. names, locations, organisational details) has been **removed during data cleaning**.  
+- Only **de-identified and structured case scenarios** are retained for analysis and model training.  
+
+---
+
+## Use of Data  
+- The dataset will be used **exclusively for academic research and pilot experimentation**.  
+- The **raw scraped materials will *not* be publicly released**.  
+- Only **processed, anonymised, and synthetic examples** will be shared to ensure transparency without compromising privacy.  
+
+---
+
+## Ethical Risks and Mitigation  
+- **Risk of harmful model outputs** → mitigated by implementing a **fail-safe mechanism** that instructs the model to defer to human supervisors when uncertain.  
+- **Risk of misinterpretation by practitioners** → mitigated by including **clear disclaimers** in prototype outputs emphasising that the tool is for research purposes only and *not a substitute for professional judgement*.  
+- **Risk of reinforcing bias or stigma** → mitigated through **collaboration with social work experts** in dataset annotation and evaluation, ensuring alignment with social work ethics and trauma-informed principles.  
+
+---
+
+## Ethics Review Status  
+- As this is an **unfunded pilot study** conducted with **publicly available data**, no formal institutional review board (IRB) approval was sought.  
+- This self-assessment demonstrates **active engagement with ethical considerations** and alignment with best practice in responsible AI and social work research.  
+
+---
+
+## Commitment to Transparency  
+- All **data handling protocols**, **annotation guidelines**, **model training scripts**, and **ethical documentation** will be made openly accessible.  
+- Research outputs will be explicitly marked as *in progress* and *for academic purposes only*.  
+
